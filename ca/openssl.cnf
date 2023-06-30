@@ -1,0 +1,12 @@
+[req]
+prompt = no
+distinguished_name = req_distinguished_name
+
+[req_distinguished_name]
+C  = NA
+ST = NA
+L  = Location
+O  = Company
+OU = Unit
+CN = Company Development
+emailAddress = test@email.address
